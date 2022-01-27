@@ -1,0 +1,1 @@
+SELECT * FROM sample.메이커;
